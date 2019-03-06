@@ -3,6 +3,8 @@ run_star_stringtie
 
 An rnaseq pipeline to run fastqc star and stringtie for analysis
 
+To run the analysis pipeline use run.sh script. To run certain parts of the pipeline or certain analyses, change run.sh script to run the rules of interest.
+
 Project Organization
 ------------
 
